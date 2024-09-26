@@ -1,4 +1,4 @@
-![Header](gambar.jpg)
+![Header](gambar2.jpg)
 
 # Latar Belakang
 
